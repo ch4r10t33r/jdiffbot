@@ -7,7 +7,7 @@ Maven based Java Wrapper for the DiffBot API
 <pre>
 <code>
 		//Add your API token below
-		String token = "<your api token goes here";
+		String token = "your api token goes here";
 		//Add version of the API here
 		int version = 2;
 		//Add your list of fields below
